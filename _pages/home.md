@@ -21,7 +21,7 @@ feature_row:
   - image_path: /assets/images/mm-free-feature.png
     alt: "100% free"
     title: "100% free"
-    excerpt: "Google cloud platform allows you to get started for free"
+    excerpt: "Google cloud platform allows you to get started for free                 "
     url: "https://cloud.google.com/pricing"
     btn_class: "btn--primary"
     btn_label: "Learn more"    
