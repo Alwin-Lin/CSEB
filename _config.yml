@@ -23,6 +23,7 @@ twitter_username: username
 github_username: Alwin-Lin
 minimal_mistakes_skin: mint
 search: true
+repository: Alwin-Lin/asd-webtesting
 
 # Build settings
 markdown: kramdown
