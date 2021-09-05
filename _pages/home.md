@@ -28,7 +28,7 @@ feature_row:
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
     title: "Simple"
-    excerpt: "Everything taught in the code lab dosn't require any knowledge reguarding programing"
+    excerpt: "Everything inside the code lab has been modified so that someone without a computer science background can easily understand"
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"  
