@@ -13,9 +13,9 @@ excerpt: >
   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    alt: "Portable"
+    title: "Remote"
+    excerpt: "Everything seen in this code lab can be done with only a chrome browser and a stable internet"
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
@@ -29,8 +29,8 @@ feature_row:
   - image_path: /assets/images/mm-free-feature.png
     alt: "100% free"
     title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
+    excerpt: "Google cloud platform allows you to get started for free"
+    url: "https://cloud.google.com/pricing"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
