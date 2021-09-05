@@ -29,9 +29,6 @@ feature_row:
     alt: "fully responsive"
     title: "Simple"
     excerpt: "Everything inside the code lab has been modified so that someone without a computer science background can easily understand"
-    url: "/docs/layouts/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"  
 ---
 
 
