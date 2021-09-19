@@ -1,3 +1,15 @@
+---
+title: "Code lab 1 - Setup Development enviroment on the cloud"
+last_modified_at: 2016-03-09T16:20:02-05:00
+categories:
+  - Blog
+tags:
+  - Post Formats
+  - readability
+  - standard
+---
+
+
 # Set Up a System Development Environment on the Cloud
 In this code lab, you will learn how to create a virtual machine on
 Google Cloud Platform(GCP) and access it by Chrome Remote Desktop(CRD) for
