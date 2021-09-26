@@ -1,7 +1,7 @@
 ---
 title: Upcoming Events
 layout: category
-permalink: /categories/edge-case/
+permalink: /events/
 taxonomy: Edge Case
 ---
 
