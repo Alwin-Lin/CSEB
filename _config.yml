@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title                    : Android System Development On The Cloud
+title                    : Computer science for equality and beond
 email                    : alwin001@gmail.com
 description              : This website is still under construction
 twitter_username         : username
