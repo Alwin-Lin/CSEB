@@ -3,9 +3,11 @@ main:
     url : /
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/
+  - title: "Events"
+    url: /events/
+  - title: "Archive"
+    url: /archive/
+  - title: "Contact Us"
+    url: /contact/
