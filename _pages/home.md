@@ -9,7 +9,7 @@ header:
     - label: "<i class='fas fa-download'></i> Start now"
       url: "https://github.com/Alwin-Lin/asd-codelabs"
 excerpt: >
-  A series of code lab to inspire and prepare students for the future of cloud computing <br />
+  A series of modurlized code lab to prepare students for the future of cloud computing, and allowing newcomers with no experince to quickly get a grip on the basics of android development and more.<br />
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "Portable"
@@ -21,7 +21,7 @@ feature_row:
   - image_path: /assets/images/mm-free-feature.png
     alt: "100% free"
     title: "100% free"
-    excerpt: "Google cloud platform allows you to get started for free                 "
+    excerpt: "This code lab is 100% free and is open to all that wishes to learn more."
     url: "https://cloud.google.com/pricing"
     btn_class: "btn--primary"
     btn_label: "Learn more"    
