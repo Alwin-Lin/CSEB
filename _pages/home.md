@@ -11,23 +11,17 @@ header:
 excerpt: >
   A series of modurlized code lab to prepare students for the future of cloud computing, and allowing newcomers with no experince to quickly get a grip on the basics of android development and more.<br />
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "Portable"
-    title: "Remote"
+  - title: "Remote"
     excerpt: "Everything seen in this code lab can be done with only a chrome browser and a stable internet"
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
+  - title: "100% free"
     excerpt: "This code lab is 100% free and is open to all that wishes to learn more."
     url: "https://cloud.google.com/pricing"
     btn_class: "btn--primary"
     btn_label: "Learn more"    
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Simple"
+  - itle: "Simple"
     excerpt: "Everything inside the code lab has been modified so that someone without a computer science background can easily understand"
 ---
 
