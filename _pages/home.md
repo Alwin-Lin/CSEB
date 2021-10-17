@@ -21,7 +21,7 @@ feature_row:
     url: "https://cloud.google.com/pricing"
     btn_class: "btn--primary"
     btn_label: "Learn more"    
-  - itle: "Simple"
+  - title: "Simple"
     excerpt: "Everything inside the code lab has been modified so that someone without a computer science background can easily understand"
 ---
 
