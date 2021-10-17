@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/webStart.jpg
+  overlay_image: /assets/images/landing.jpg
   actions:
     - label: "<i class="fas fa-play"></i> Start now"
       url: "https://github.com/Alwin-Lin/asd-codelabs"
