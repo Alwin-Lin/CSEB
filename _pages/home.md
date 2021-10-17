@@ -6,7 +6,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/computeAFuture (2).png
   actions:
-    - label: "<i class='fas fa-download'></i> Start now"
+    - label: "<i class="fas fa-play"></i> Start now"
       url: "https://github.com/Alwin-Lin/asd-codelabs"
 excerpt: >
   A series of modurlized code lab to prepare students for the future of cloud computing, and allowing newcomers with no experince to quickly get a grip on the basics of android development and more.<br />
