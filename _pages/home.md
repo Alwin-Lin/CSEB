@@ -7,16 +7,21 @@ header:
   overlay_image: /assets/images/landing.jpg
   actions:
     - label: "<i class='fas fa-play'></i> Start now"
-      url: "https://github.com/Alwin-Lin/asd-codelabs"
+      url: "https://github.com/samlin001/asd-codelabs"
+      
 excerpt: >
-  A series of modurlized code lab to prepare students for the future of cloud computing, and allowing newcomers with no experince to quickly get a grip on the basics of android development and more.<br />
+  A series of code labs for students to learn about cloud computing, Android system, and application development on Google Cloud Platform. 
+  By leveraging the flexibility of cloud computing, students can work from anywhere via a browser and complete the development tasks like a professional software developer. 
+  Therefore any student can get started on their CS careers easily from anywhere.
+  .<br />
+
 feature_row:
-  - title: "Remote"
-    excerpt: "Everything seen in this code lab can be done with only a chrome browser and a stable internet"
-  - title: "100% free"
-    excerpt: "This code lab is 100% free and is open to all that wishes to learn more."
-  - title: "Simple"
-    excerpt: "Everything inside the code lab has been modified so that someone without a computer science background can easily understand"
+  - title: "Get started with only a browser"
+    excerpt: "You can complete the code lab on a browser from anywhere."
+  - title: "Work from anywhere "
+    excerpt: "You can work from any computer that has a stable connection and can run a browser."
+  - title: "Open and simple"
+    excerpt: "All provide materials are in open domain, just follow along and everything can be completed"
 ---
 
 
