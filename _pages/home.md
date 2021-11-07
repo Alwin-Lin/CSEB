@@ -10,14 +10,12 @@ header:
       url: "https://github.com/samlin001/asd-codelabs"
       
 excerpt: >
-  <p style="margin-left: 40px">This text is indented.</p>
-
-  <p style="margin-left: 40px">A series of code labs for students to learn about cloud computing, Android system, and application development on Google Cloud Platform. </p><br>
+  <blockquote>A series of code labs for students to learn about cloud computing, Android system, and application development on Google Cloud Platform. </blockquote><br>
   
   By leveraging the flexibility of cloud computing, students can work from anywhere via a browser and complete the development tasks like a professional software developer. <br>
   
   Therefore any student can get started on their CS careers easily from anywhere.<br>
-  .<br />
+  <br />
 
 feature_row:
   - title: "Get started with only a browser"
