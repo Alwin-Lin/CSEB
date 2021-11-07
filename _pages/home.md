@@ -10,11 +10,11 @@ header:
       url: "https://github.com/samlin001/asd-codelabs"
       
 excerpt: >
-  A series of code labs for students to learn about cloud computing, Android system, and application development on Google Cloud Platform. 
+  A series of code labs for students to learn about cloud computing, Android system, and application development on Google Cloud Platform. <br>
   
-  By leveraging the flexibility of cloud computing, students can work from anywhere via a browser and complete the development tasks like a professional software developer. 
+  By leveraging the flexibility of cloud computing, students can work from anywhere via a browser and complete the development tasks like a professional software developer. <br>
   
-  Therefore any student can get started on their CS careers easily from anywhere.
+  Therefore any student can get started on their CS careers easily from anywhere.<br>
   .<br />
 
 feature_row:
