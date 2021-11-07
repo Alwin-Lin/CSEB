@@ -10,7 +10,9 @@ header:
       url: "https://github.com/samlin001/asd-codelabs"
       
 excerpt: >
-  A series of code labs for students to learn about cloud computing, Android system, and application development on Google Cloud Platform. <br>
+  <p style="margin-left: 40px">This text is indented.</p>
+
+  <p style="margin-left: 40px">A series of code labs for students to learn about cloud computing, Android system, and application development on Google Cloud Platform. </p><br>
   
   By leveraging the flexibility of cloud computing, students can work from anywhere via a browser and complete the development tasks like a professional software developer. <br>
   
