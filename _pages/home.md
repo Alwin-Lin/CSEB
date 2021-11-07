@@ -11,7 +11,9 @@ header:
       
 excerpt: >
   A series of code labs for students to learn about cloud computing, Android system, and application development on Google Cloud Platform. 
+  
   By leveraging the flexibility of cloud computing, students can work from anywhere via a browser and complete the development tasks like a professional software developer. 
+  
   Therefore any student can get started on their CS careers easily from anywhere.
   .<br />
 
