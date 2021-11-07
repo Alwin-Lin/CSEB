@@ -13,16 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title                    : Computer science for equity and beond
-email                    : alwin001@gmail.com
-description              : This website is still under construction
-twitter_username         : username
+title                    : Computer Science for Equity and Beyond(CSEB)
+email                    : cseb.org@gmail.com
+description              : CSEB
+twitter_username         : CSEB
 github_username          : Alwin-Lin
 minimal_mistakes_skin    : mint
 search                   : true
-url                      : https://alwin-lin.github.io/asd-webtesting/
-baseurl                  : asd-webtesting/
-repository               : Alwin-Lin/asd-webtesting
+url                      : https://alwin-lin.github.io/CSEB/
+baseurl                  : CSEB/
+repository               : Alwin-Lin/CSEB
 
 # Build settings
 markdown: kramdown
