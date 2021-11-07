@@ -60,11 +60,11 @@ plugins:
 author:
   name   : "Alwin Lin"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Colledge student/Founder and CEO of Computer Science for Equity and Beyond."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://alwin-lin.github.io/CSEB/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Alwin-Lin?tab=repositories"
