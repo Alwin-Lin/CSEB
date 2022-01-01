@@ -100,9 +100,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+<<<<<<< HEAD
   
   #_events
     - scope:
+=======
+      
+  #_events
+  - scope:
+>>>>>>> ae35e2ee7a959f0ebbabde649ee3b9e0a96669e3
       path: ""
       type: event
     values:
