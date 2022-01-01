@@ -81,6 +81,7 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/alwin-lin-b65613189/"
 
+# Defaults
 defaults:
   # _posts
   - scope:
@@ -100,16 +101,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  
-  #_events
-    - scope:
-      path: ""
-      type: event
-    values:
-      layout: talk
-      author_profile: true
-      share: true
-
+      
 
 category_archive:
   type: liquid
