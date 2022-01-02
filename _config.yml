@@ -94,6 +94,7 @@ defaults:
       comments: true
       share: true
       related: true
+      
   # _pages
   - scope:
       path: "_pages"
@@ -101,6 +102,16 @@ defaults:
     values:
       layout: single
       author_profile: true
+      
+  # _events
+  - scope:
+      path: ""
+      type: events
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
       
 
 category_archive:
