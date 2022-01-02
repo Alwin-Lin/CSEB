@@ -1,7 +1,7 @@
 ---
 title: "Testing Event"
 collection: events
-type: "Event"
+type: "events"
 permalink: /events/Testing-Event
 date: 2021-10-10
 ---
