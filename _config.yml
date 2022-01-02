@@ -81,6 +81,11 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/alwin-lin-b65613189/"
 
+  # Collection
+  events:
+    output: true
+    permalink: /:collection/:path/
+
 # Defaults
 defaults:
   # _posts
