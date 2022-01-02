@@ -3,8 +3,7 @@ title: "Testing Event"
 collection: events
 type: "Event"
 permalink: /events/Testing-Event
-date: 201-10-10
-location: "Mountain View, CA"
+date: 2021-10-10
 ---
 
 This is for testing
