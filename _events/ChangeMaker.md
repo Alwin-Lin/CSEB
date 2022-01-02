@@ -1,8 +1,8 @@
 ---
 title: "Testing Event"
-collection: talks
-type: "Talk"
-permalink: /events/ChangeMaker
+collection: event
+type: "Event"
+permalink: /events/Testing-Event
 date: 201-10-10
 location: "Mountain View, CA"
 ---
