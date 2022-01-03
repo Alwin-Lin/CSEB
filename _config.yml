@@ -23,6 +23,8 @@ search                   : true
 url                      : https://alwin-lin.github.io/CSEB/
 baseurl                  : CSEB/
 repository               : Alwin-Lin/CSEB
+words_per_minute         : 200
+
 
 # Build settings
 markdown: kramdown
