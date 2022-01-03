@@ -110,10 +110,10 @@ defaults:
       
   # _event
   - scope:
-      path: ""
+      path: "_event"
       type: event
     values:
-      layout: events
+      layout: event
       author_profile: true
       share: true
       comments: true
