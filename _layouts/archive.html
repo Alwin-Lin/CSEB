@@ -1,26 +1,32 @@
 ---
 layout: default
 ---
-
+<!--Loading logo-->
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
 {% elsif page.header.video.id and page.header.video.provider %}
   {% include page__hero_video.html %}
 {% endif %}
 
+<!--Adding breadcrumbs if webpage does not have paginator, and user not at home page -->
 {% if page.url != "/" and site.breadcrumbs %}
   {% unless paginator %}
     {% include breadcrumbs.html %}
   {% endunless %}
 {% endif %}
 
+
+<!--Main class, loads sidebar-->
 <div id="main" role="main">
   {% include sidebar.html %}
 
+  <!--Archive class, loads page titel if no overlay_color or overlay_image-->
   <div class="archive">
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 id="page-title" class="page__title">{{ page.title }}</h1>
     {% endunless %}
+    
+    <!--content must be provided when including archive.html-->
     {{ content }}
   </div>
 </div>
