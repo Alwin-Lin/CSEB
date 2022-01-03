@@ -82,7 +82,7 @@ footer:
       url: "https://www.linkedin.com/in/alwin-lin-b65613189/"
 
   # Collection
-  events:
+  event:
     output: true
     permalink: /:collection/:path/
 
@@ -108,12 +108,12 @@ defaults:
       layout: single
       author_profile: true
       
-  # _events
+  # _event
   - scope:
       path: ""
-      type: events
+      type: event
     values:
-      layout: single
+      layout: events
       author_profile: true
       share: true
       comments: true
