@@ -1,10 +1,11 @@
 ---
-title: "Codelab"
+title: "Talk 1 on Relevant Topic in Your Field"
 collection: events
-type: "events"
-permalink: /events/Codelab
-date: 2021-12-12
-location: "Mountain View, CA"
+type: "Event"
+permalink: /events/2012-03-01-talk-1
+venue: "UC San Francisco, Department of Testing"
+date: 2012-03-01
+location: "San Francisco, California"
 ---
 
-Placehold for Codelab
+This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
