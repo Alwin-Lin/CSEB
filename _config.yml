@@ -84,7 +84,7 @@ footer:
   # Collection
   event:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:title/
 
 # Defaults
 defaults:
