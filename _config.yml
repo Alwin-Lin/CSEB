@@ -84,6 +84,9 @@ footer:
       url: "https://www.linkedin.com/in/alwin-lin-b65613189/"
 
   # Collection
+  talks:
+    output: true
+    permalink: /:collection/:path/
   event:
     output: true
     permalink: /:collection/:title/
@@ -119,6 +122,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
       
 
 category_archive:
