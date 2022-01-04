@@ -23,7 +23,7 @@ layout: default
   <!--Archive class, loads page titel if no overlay_color or overlay_image-->
   <div class="archive">
     {% unless page.header.overlay_color or page.header.overlay_image %}
-      <h1 id="page-title" class="page__title">{{ page.title }}</h1>
+      <h1 class="page__title">{{ page.title }}</h1>
     {% endunless %}
     
     <!--content must be provided when including archive.html-->
