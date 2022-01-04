@@ -5,14 +5,7 @@ permalink: /event/
 author_profile: true
 ---
 
-<!--if there's a link to talkmap, load talkmap link-->
-{% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
-
 <!--Load all post in site.events with archive-single-talk-->
-{% for post in page.event reversed %}
+{% for post in site.collection.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
