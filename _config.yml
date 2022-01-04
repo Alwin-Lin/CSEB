@@ -95,7 +95,7 @@ footer:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_posts"
       type: posts
     values:
       layout: single
@@ -125,7 +125,7 @@ defaults:
       
   # _talks
   - scope:
-      path: ""
+      path: "_talks"
       type: talks
     values:
       layout: talk
