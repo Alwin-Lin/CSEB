@@ -13,6 +13,6 @@ author_profile: true
 {% endif %}
 
 <!--Load all post in site.events with archive-single-talk-->
-{% for post in site.categories.event reversed %}
+{% for post in page.event reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
