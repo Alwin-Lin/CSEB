@@ -2,6 +2,9 @@
 ---
 
 <!doctype html>
+
+{% include base_path %}
+
 <!--
   Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
   Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
@@ -18,10 +21,9 @@
     {% include_cached skip-links.html %}
     {% include_cached browser-upgrade.html %}
     {% include_cached masthead.html %}
+    
+    {{ content }}
 
-    <div class="initial-content">
-      {{ content }}
-    </div>
 
     {% if site.search == true %}
       <div class="search-content">
