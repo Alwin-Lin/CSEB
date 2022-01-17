@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-ASD code labs are developed as a workshop for Google's Code Next. Which works with high schoolers to cultivate the next generation of Black and Latinx tech leaders.
-It'll continuously develop in open, so that any passionate in bootstrapping CS talent pipeline in their community can use them.
-Any contribution is welcome. Let's make a dent in the consumer computing universe by getting more started.
+## Our story
+Computer Science for Equity & Beyond (CSEB) was founded April 2021 by Alwin Lin after seeing the impact that COVID had on work space. Leveraging the power of cloud computing, we are able to allow anyone who has a computer and a wifi connection to join in and learn about computer science.
+
+## Contact us:
+Email: csfeb.org@gmail.com
