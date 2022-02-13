@@ -10,15 +10,11 @@ header:
       url: "https://github.com/samlin001/asd-codelabs"
       
 excerpt: >
-  Democrotizing the power of CS to bring better opportunities for less privliged highschoolers, by leveraging the cloud computing to lower the entry barrier to build and scale.
+  Democratizing the power of CS to bring better opportunities for less privileged high schoolers, by leveraging cloud computing to lower the entry barrier to build and scale.<br>
   
   Creating opportunies by connecting students to bootstrap digital transformation for non-porfits.<br>
-  {: .notice}
-  This is a series of code labs for students to learn about cloud computing, Android system, and application development on Google Cloud Platform.<br>
-  {: .notice}
-  By leveraging the flexibility of cloud computing, students can work from anywhere via a browser and complete the development tasks like a professional software developer, therefore any student can get started on their CS careers easily from anywhere. <br>
   <br />
-
+  
 feature_row:
   - title: "Get started with only a browser"
     excerpt: "You can complete the code lab on a browser from anywhere."
