@@ -1,5 +1,6 @@
 ---
-title: "Archive"
-permalink: /year-archive/
+title: "Events by Year"
+permalink: /event/
 layout: posts
+author_profile: true
 ---
