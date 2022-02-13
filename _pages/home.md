@@ -21,8 +21,7 @@ feature_row:
   - title: "Work from anywhere "
     excerpt: "You can work from any computer that has a stable connection and can run a browser."
   - title: "Open and simple"
-    excerpt: "All provide materials are in open domain, just follow along and everything can be completed"
+    excerpt: "All provided materials are in the open domain, just follow along and everything can be completed"
 ---
-
 
 {% include feature_row %}
