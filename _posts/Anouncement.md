@@ -1,6 +1,6 @@
 ---
 title: "CSEB Event"
-date: 2022-01-18
+date: 2021-01-18
 categories:
   - blog
 tags:
