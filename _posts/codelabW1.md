@@ -9,9 +9,7 @@ tags:
   - standard
 ---
 
-Today is the second week of the code lab, here's a recap of what happened on week one:
-
-Last week we kicked off the four-week code lab, covered some basic computer science, and had the honor of having Guest Speaker Denalex Orakwue talk with students regarding starting off in the field of computer science.
+Today is the first week of the 4 week code lab, after breifly covereing some basic computer science, we had the honor of having Guest Speaker Denalex Orakwue talk with students regarding starting off in the field of computer science.
 
 There were some parts regarding the lectures that needed to be tweaked but overall couldn't have asked for a better start than this.
 
