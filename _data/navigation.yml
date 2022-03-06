@@ -7,5 +7,5 @@ main:
     url: /event/
   - title: "About Us"
     url: /about-us/
-  - title "About Me"
-    url /about-me/
+  - title: "About Me"
+    url: /about-me/
