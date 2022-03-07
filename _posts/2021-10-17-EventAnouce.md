@@ -16,7 +16,7 @@ Starting on 10/15 we will have our first series of code labs that aims to introd
 Don't worry, we will be rolling out another set of courses fairly soon, stay tuned.
 
 If you wish to take a look at the materials, here is the GitHub link:
-https://lnkd.in/giZ2hxrw
+[https://lnkd.in/giZ2hxrw](https://lnkd.in/giZ2hxrw)
 
 Images
 
