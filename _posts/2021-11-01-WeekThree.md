@@ -15,4 +15,4 @@ Headed into the code lab, having learned the lesson from the previous week, the 
 This week is centered around how source control works and the process of building an Android system. This was also the week that we received most questions out of the 4, partially because the foundation laying at week 2 wasn’t as solid as one would wish, and partially because this is one of the more content-dense weeks out of the 4.
 
 
-[alt]({{ site.url }}{{ site.baseurl }}/assets/images/Week3.jpg)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/Week3.jpg)
