@@ -6,7 +6,7 @@ taxonomy: Edge Case
 ---
 Here are the two major projects in development/testing, all of which can be completed with a computer, browser, and internet connection.
 
-### Android system development on the cloud
+### (Android system development on the cloud)[https://alwin-lin.github.io/CSEB/event/]
 Expanding the cs talent pipeline by teaching highshoolers to learn Android System Development and the Cloud computing. Spanning from code lab 1~3, these code labs cover the basics of a Virtual Machine on Google Cloud Platform, the basics of Android system development, as well as introductory computer science. After finishing this section, students will have an elementary understanding of Cloud computing, and a functional VM on GCP.
 
 ### Website building for non-profits 
