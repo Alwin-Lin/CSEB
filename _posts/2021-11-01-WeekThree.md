@@ -1,5 +1,5 @@
 ---
-title: "Week 3 Codelab"
+title: "Week 3 Codelab- Building Android system with GCP"
 date: 2021-11-01
 excerpt_separator: "<!--more-->"
 categories:
