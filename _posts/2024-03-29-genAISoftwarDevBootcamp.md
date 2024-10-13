@@ -11,6 +11,8 @@ tags:
 
 We are excited to share the highlights from our recently completed **8-week bootcamp** on Gen AI and the Future of Software Development, organized by Computer Science for Equity & Beyond (CSEB) and VC.in.Taiwan. Under the guidance of Coach Alwin Lin, this course aimed to demystify machine learning concepts and introduce high school students to large language models (LLMs) like ChatGPT.
 
+![test](https://github.com/Alwin-Lin/CSEB/tree/master/assets/images/ezgif-4-f6498ac1de.png)
+
 ## Course Overview
 
 Designed for students with a basic understanding of computer science, the bootcamp provided a blend of hands-on projects, interactive discussions, and practical demonstrations. By the end of the course, participants gained foundational knowledge in machine learning and LLM applications in real-world scenarios.
