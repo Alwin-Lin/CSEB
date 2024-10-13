@@ -4,9 +4,7 @@ title: "About Us"
 ---
 
 ## Our story
-Computer Science for Equity & Beyond (CSEB) was founded April 2021 by Alwin Lin after seeing the impact that COVID had on work space. Our goal is to lower the entry barrier to coding by using the power of cloud computing, allowing students from all backround to join in with just a single laptop and internet connection.
-
-Right now, additional modues that focuses on Android application development is currently being developed, we are also looking into potential ways to make it easier for students to perform the codelab with either phone or tablets, stay tuned for more updates. 
+We grow students to become new leaders with Computer Science (CS) skills who will thrive in the latest Artificial Intelligence (AI) age, regardless of location and background. We invite passionate tech professionals to inspire, use state-of-the-art AI to augment, and collaborate on the cloud to bridge everyone worldwide, enabling students to solve real-world problems as a team to contribute back to the communities.
 
 ## Contact us:
-Email: csfeb.org@gmail.com
+Email: CSEquityAI@gmail.com
