@@ -1,6 +1,6 @@
 ---
 title: "Events by Year"
-permalink: /event/
+permalink: /pastEvents/
 layout: posts
 author_profile: true
 ---
