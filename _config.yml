@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Computer Science for Equity and Beyond(CSEB)
-email: cseb.org@gmail.com
+title: CS Equity AI Charter
+email: CSEquityAI@gmail.com
 description: CSEB
 twitter_username: CSEB
 github_username: Alwin-Lin
@@ -55,9 +55,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Alwin Lin"
+  name   : "CS Equity AI Charter"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Colledge student/Founder and CEO of Computer Science for Equity and Beyond."
+  bio    : "Empowering students, promoting diversity, and developing future tech leaders to excel in solving real-world problems with CS & AI."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -67,7 +67,7 @@ author:
       url: "https://github.com/Alwin-Lin?tab=repositories"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/alwin-lin-b65613189/"
+      url: "https://www.linkedin.com/in/cs-equity-ai-94473a315/"
 
 footer:
   links:
@@ -76,7 +76,7 @@ footer:
       url: "https://github.com/Alwin-Lin?tab=repositories"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/alwin-lin-b65613189/"
+      url: "https://www.linkedin.com/in/cs-equity-ai-94473a315/"
 
 
 defaults:
