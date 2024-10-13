@@ -7,11 +7,10 @@ tags:
   - chat
   - Post Formats
 ---
-# Course Recap: Gen AI & The Future of Software Development Bootcamp
 
 We are excited to share the highlights from our recently completed **8-week bootcamp** on Gen AI and the Future of Software Development, organized by Computer Science for Equity & Beyond (CSEB) and VC.in.Taiwan. Under the guidance of Coach Alwin Lin, this course aimed to demystify machine learning concepts and introduce high school students to large language models (LLMs) like ChatGPT.
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/ezgif-4-f6498ac1de.png)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/ezgif-4-88e73c2453.png)
 
 ## Course Overview
 
@@ -51,6 +50,8 @@ Here’s a recap of what students explored each week:
 ### Week 5: Coding Out the Web Search Bot Project
 - **Objective**: Built a sophisticated Research Bot.
 - **Planned Learnings**: Integrated web scraping and API calls to gather information based on user queries, hosted on Streamlit for easy access.
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/ezgif-4-f6498ac1de.png)
 
 ## Skills Acquired by Students
 
